@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/eIAopzF9lGaYPClAHa/giphy.gif" width="100"/>
 </div>
 <div align="center">
-   <a href="https://www.linkedin.com/in/olha-poberezhna-b06279265/">
+   <a href="https://www.linkedin.com/in/olha-poberezhna/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.facebook.com/PoberezhStudiO">
