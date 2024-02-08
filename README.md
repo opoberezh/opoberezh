@@ -27,7 +27,7 @@ ___
 - :seedling: I like to push myself beyond my limits and learn something new
 - :zap: I'm looking foward for my first work experience in IT field
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](+380664600994)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](@Olha_poberezh)
 
 ---
 
