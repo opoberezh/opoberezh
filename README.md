@@ -49,4 +49,6 @@ ___
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=opoberezh&theme=buefy&mode=weekly&card_width=600)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opoberezh&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opoberezh&theme=buefy&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opoberezh&layout=compact&theme=buefy&card_width=600)](https://github.com/anuraghazra/github-readme-stats) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opoberezh&theme=buefy&show_icons=true&card_width=600)
