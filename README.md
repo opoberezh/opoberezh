@@ -22,7 +22,7 @@
 
 ___
 
-### :woman_technologist: About Me : I am a junior Full Stack Developer from Ukraine<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+### :woman_technologist: About Me : I am a junior Full Stack Developer from Ukraine 
 - :sunflower: I consider myself a responsible and orderly person
 - :muscle: I like to push myself beyond my limits and learn something new
 - :globe_with_meridians: I'm looking foward for my first work experience in IT field
