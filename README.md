@@ -22,10 +22,10 @@
 
 ___
 
-### :woman_technologist: About Me : I am a junior Full Stack Developer from Ukraine 
+### :woman_technologist: About Me : I am a Full Stack Developer
 - :sunflower: I consider myself a responsible and orderly person
 - :muscle: I like to push myself beyond my limits and learn something new
-- :globe_with_meridians: I'm looking foward for my first work experience in IT field
+- :globe_with_meridians: I'm looking foward for interesting projects to improve my skills 
 - :phone: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Olha_poberezh)
 
 ---
